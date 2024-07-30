@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "nombre": "Alfajores",
+        "plural": "alfajores",
+        "precioUnitario": 2,
+        "moneda": "USD",
+        "imagen": "./public/foto-1.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Chesecake",
+        "plural": "cheescakes",
+        "precioUnitario": 4,
+        "moneda": "USD",
+        "imagen": "./public/foto-2.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Postre de 3 leches",
+        "plural": "postres de 3 leches",
+        "precioUnitario": 6,
+        "moneda": "USD",
+        "imagen": "./public/foto-3.png"
+    },
+    {
+        "id": 4,
+        "nombre": "Torta de chocolate",
+        "plural": "tortas de chocolate",
+        "precioUnitario": 9,
+        "moneda": "USD",
+        "imagen": "./public/foto-4.png"
+    }
+]
